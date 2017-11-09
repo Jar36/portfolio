@@ -8,7 +8,7 @@ short-description: Blocjams is a project that I was able to build while learning
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocjams.png)
-
+<!--
 ## Explanation
 
 
@@ -25,6 +25,5 @@ short-description: Blocjams is a project that I was able to build while learning
 
 
 
->
-
 ## Conclusion
+-->
