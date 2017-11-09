@@ -7,6 +7,6 @@ feature-img: "img/my_experience.png"
 
 <p>In bloc, the curriculum is split up into different modules that cover front-end and back-end technologies. In the front-end the first couple weeks students spend learning the absolute fundamentals. I learned basic HTML, CSS, JavaScript, and Git. Once you got the basics down, you’ll be given an assessment in the form of an interview. Yes, your assessment is meant to mimic an actual coding interview. After that you move on to the project phase where you begin to learn how to use the necessary technologies by building projects. One of my favorite parts of the program is that as a student you are required to use Git a type of version control with Github a service to store your code online.</p>  
 
-<p>If you aren’t familiar with these two tools, they basically are how real developers manage their code projects especially when working on teams.
+<p>If you aren’t familiar with these two tools, they basically are how  developers can manage their code projects especially when working on teams.
 Once your initial front-end projects are complete you get to move forward with backend technologies.
 As far as staff, I have had nothing but good experiences. My mentors have been awesome, and whenever I e-mailed student services or career services I was always met with a speedy reply. So far, all in all I have been happy.</p>
