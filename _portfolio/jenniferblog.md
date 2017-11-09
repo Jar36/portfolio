@@ -8,22 +8,21 @@ short-description: Jennifer's Makeup Blog is a new blogging site built for a mak
 
 {:.center}
 ![]({{ site.baseurl }}/img/jenniferblog.png)
-<!--
-## Explanation
+
+[//]: # ## Explanation
 
 
 
-## Problem
+[//]: # ## Problem
 
 
 
-## Solution
+[//]: # ## Solution
 
 
 
-## Results
+[//]: # ## Results
 
 
 
-## Conclusion
--->
+[//]: # ## Conclusion
