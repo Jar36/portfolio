@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Junior Web Developer</h1>
-     <p>Specializing in HTML, CSS, Ruby and Rails.</p>
+     <h1>Junior UI Designer/Web Developer</h1>
+     <p>Specializing in Design, HTML, CSS, JavaScript, and Ruby on Rails.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -35,7 +35,7 @@ theme_settings:
   steam:
   tumblr:
   twitter: "https://twitter.com/jojo33r?lang=en"
-  wordpress: 
+  wordpress:
   youtube:
 
   # Scripts
