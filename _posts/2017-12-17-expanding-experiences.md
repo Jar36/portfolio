@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change of pace
-feature-img: "img/my_experience.png"
+feature-img: "../img/my_experience.png"
 ---
 
 <p>Since I started the Bloc Web Developer Track I have learned a few things. One of which has led me to make decision that will hopefully mold my passion into a career.</p>

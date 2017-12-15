@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My coding journey
-feature-img: "img/journey.png"
+feature-img: "../img/journey.png"
 ---
 
 <p>Hi, my name is Joe and I am making a huge transition later in life from a maintenance mechanic to a UI Designer / Front-End Web Developer. Why the change? Well, simply put I am bored of my job, it’s not a bad one, I’m just bored of it. I never really chose this particular line of work out of a passion, it was more of a decision that I made back when I was 18 years old, sitting in a Navy recruiter’s office trying to decide on a job.
