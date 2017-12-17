@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Thank you for visiting. If you are interested in learning more about me, want to chit chat about a project, or even want to hire me please feel free to find me online or drop me a line. 
+Thank you for visiting. If you are interested in learning more, want to chit chat about a project, or even want to hire me please feel free to view my social media profiles or reach out via the contact form. 
 
 <form action="https://getsimpleform.com/messages?form_api_token=77108f116a1598d110751a396c487ec6" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
