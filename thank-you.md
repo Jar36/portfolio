@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-Thanks for contacting me. Your contact form was sent successfully. I will be in contact as soon as possible. 
+Thank you so much for visiting my site and contacting me. Your form was sent successfully, I will be in touch as soon as possible. 
