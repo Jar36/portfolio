@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Change of pace
+title: Change of Pace
 feature-img: "../img/my_experience.png"
 ---
 
