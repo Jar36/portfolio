@@ -5,11 +5,14 @@ feature-img: "img/my_experience.png"
 ---
 
 ### Bloc.io ###
+
 In July of 2017, I joined Bloc an online program that helps people learn the skills necessary to become developers or designers. My program of choice is web development. It has been a challenging experience so far. There is a lot of material to cover, and because the program is time sensitive, you must really push yourself to keep up. The content is pretty good, I’m happy with what they have decided to teach us and so far, and have learned a lot. In addition to the curriculum Bloc has some pretty nice features to it. For example, you get a mentor, assessments, projects, and to top it all off they help you get job ready.
 
 ### The Curriculum for Web Development ###
+
 In bloc, the curriculum is split up into different modules that cover front-end and back-end technologies as well as version control. *I would like to mention that Bloc is always evolving and improving their courses. Which means that their current offerings and structure may differ slightly from what they were at the time of the post.*
 #### The Front-End ####
+
 * HTML
 * CSS
 * JavaScript
@@ -19,6 +22,7 @@ In bloc, the curriculum is split up into different modules that cover front-end 
 * Git
 
 #### The Back-End ####
+
 * Ruby
 * Rails
 
