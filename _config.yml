@@ -14,7 +14,7 @@ theme_settings:
      <p>Specializing in Design, HTML, CSS, JavaScript, WordPress, and Ruby on Rails.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   &copy; 2017 | Built by <a href="http://jo-romero.com/" target="_blank">Joseph Romero Designs</a> | Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
@@ -64,7 +64,7 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-    
+
 # BUILD SETTINGS
 markdown: kramdown
 
