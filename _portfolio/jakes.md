@@ -26,4 +26,4 @@ Overall, the clients were happy with the results. They got a new website, that i
 
 
 [//]: # ## Conclusion
-To view the final project <a href="http://jakesplumbing.net/" target="_blank">Cick here.</a>
+To view the final project <a href="http://jakesplumbing.net/" target="_blank">Click here.</a>

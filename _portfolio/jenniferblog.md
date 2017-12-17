@@ -26,4 +26,4 @@ To build her site I chose WordPress, and installed a premium theme that we could
 
 
 [//]: # ## Conclusion
-To view the final project <a href="http://jennifersmakeupblog.com/" target="_blank">Cick here.</a>
+To view the final project <a href="http://jennifersmakeupblog.com/" target="_blank">Click here.</a>
