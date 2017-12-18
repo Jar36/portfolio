@@ -10,7 +10,7 @@ short-description: Blocjams is a project that I was able to build while learning
 ![]({{ site.baseurl }}/img/blocjams.png)
 
 [//]: # ## Explanation
-BlocJams was a project built during my time in the Web Development Track at Bloc.io. The technologies used were HTML, CSS, Javascript and AngularJS. This project is an example of a music player app were people can go and listen to a collection of albums.
+BlocJams was a project built during my time in the Web Development Track at Bloc.io. The technologies used were HTML, CSS, Javascript and AngularJS. This project is an example of a music player app where people can go and listen to a collection of albums.
 
 
 
