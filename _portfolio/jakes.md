@@ -3,7 +3,6 @@ layout: post
 title: Jakes Plumbing
 thumbnail-path: "img/jakes.png"
 short-description: Jake's Plumbing is a website built on WordPress for a small business.
-
 ---
 
 {:.center}
