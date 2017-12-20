@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Bloc WDT Experience
-feature-img: "img/my_experience.png"
+feature-img: "../../../img/my_experience.png"
 ---
 
 If there is one thing I have learned throughout my experiences, it's that learning to code is hard! If it was easy everyone would do it.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Coding Journey
-feature_img: "img/journey.png"
+feature-img: "../../../img/journey.jpg"
 ---
 
 Hi, my name is Joe,  nice to meet you. The following post is a brief look into how I got into coding. If you make it to the end Good job! and thanks for reading.
