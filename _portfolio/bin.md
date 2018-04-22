@@ -7,14 +7,14 @@ short-description: Bin is a project that as lead designer, I created to solve a 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }}/img/bin.png)
 
 [//]: # ## Explanation
 With several options available for cloud storage applications, people still seem to be using a mix of them to address their needs.
 
 Bin sets out to create a simple, user friendly solution that can meet the needs of people and allow them to create, save, organize, share and collaborate their content on the web.
 
-To view the project ```<a href="https://www.figma.com/file/GLdIPVhNF9rBeyLfszZZZEB1/Cloud-Storage-App" target="_blank">Design files.</a>```
+To view the project <a href="https://www.figma.com/file/GLdIPVhNF9rBeyLfszZZZEB1/Cloud-Storage-App" target="_blank">Design files.</a>
 
 
 
