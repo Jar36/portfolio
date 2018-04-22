@@ -11,10 +11,10 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>UI Designer / Web Developer</h1>
-     <p>Specializing in Design, HTML, CSS, JavaScript, WordPress, and Ruby on Rails.</p>
+     <p>Specializing in UX/UI Design, HTML, CSS, JavaScript, and WordPress.</p>
   header_text_feature_image:
   footer_text: >
-   &copy; 2017 | Built by <a href="http://jo-romero.com/" target="_blank">Joseph Romero Designs</a> | Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   &copy; 2018 | Built by <a href="http://jo-romero.com/" target="_blank">Joseph Romero Designs</a> | Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
